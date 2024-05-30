@@ -6,7 +6,7 @@ Setup Process:
 
 Step 1: Fork this repository
 
-Step 2: Open command-line and type the following command to clone the repository 'git clone <repository adress>' - usually you get this by clicking on `Code`, in your case the username won't be `CrossVas`, but your.
+Step 2: Open command-line and type the following command to clone the repository 'git clone `repository adress`' - usually you get this by clicking on `Code`, in your case the username won't be `CrossVas`, but your.
 
 <img src="img_1.png">
 
