@@ -20,7 +20,7 @@ If you prefer to use Eclipse:
 If you prefer to use IntelliJ:
 1. Right-click on the newly cloned folder and select `Open Folder as IntellIj IDEA Project`
 2. IntelliJ IDEA will do the rest, just wait.
-3. To run the project, heat to Gradle menu on the right side, select `Tasks/forgegradle runs` and then `runClient`
+3. To run the project, head to Gradle menu on the right side, select `Tasks/forgegradle runs` and then `runClient`
 
 If at any point you are missing libraries in your IDE, or you've run into problems you can 
 run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
